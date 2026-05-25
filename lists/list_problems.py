@@ -19,7 +19,7 @@ def alts(arr: List[int]) -> List[int]:
 # Input: arr[] = [1, 2, 3, 4], x = 3
 # Output: 2
 
-def find(arr: List[int]) -> int:
+def find(arr: List[int], val:int) -> int:
 
     pass
 
